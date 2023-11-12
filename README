@@ -1,3 +1,7 @@
+Buildbot is a Python-based continuous integration testing framework.
+
+LADI Buildbot does not require client side scripting. LADI Buildbot is based on upstream Buildbot 0.8 series (for python2), maintained by LADI project and is not not supported by Buildbot project.
+
 BuildBot: build/test automation
   http://buildbot.net
   Brian Warner <warner-buildbot @ lothar . com>
@@ -7,5 +11,6 @@ Buildbot consists of two separate components: the master and the slave.  See
 master/README and slave/README for more information.
 
 Related repositories:
+  https://github.com/buildbot/buildbot - Upstream Buildbot repository
   https://github.com/buildbot/buildbot-media - Buildbot-related media
   https://github.com/buildbot/buildbot-website - Source for http://buildbot.net
